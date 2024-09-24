@@ -1,0 +1,182 @@
+[
+    {
+        "id": "verdura",
+        "titulo": "Ahuyama",
+        "imagen": "./img/Agricolas/ahuyama.jpeg",
+      "categoria": {
+        "nombre": "Ahuyama",
+        "id": "verdura"
+      },
+        "precio": 5000
+    },
+    {
+        "id": "aromatica",
+        "titulo": "Aromaticas",
+        "imagen": "./img/Cosecha/aromaticas.jpg",
+        "categoria": {
+            "nombre": "Aromaticas",
+            "id": "aromaticas"
+        },
+        "precio": 2000
+    },
+    {
+        "id": "cuajada",
+        "titulo": "cuajada",
+        "imagen": "./img/Derivados/cuajada.jpg",
+        "categoria": {
+            "nombre": "cuajada",
+            "id": "cuajada"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "huevos",
+        "titulo": "huevos ",
+        "imagen": "./img/cosecha/huevos.jpeg",
+        "categoria": {
+            "nombre": "huevos",
+            "id": "huevos"
+        },
+        "precio": 18000
+    },
+    {
+        "id": "panela",
+        "titulo": "panela",
+        "imagen": "./img/Cosecha/panela.jpeg",
+        "categoria": {
+            "nombre": "panela",
+            "id": "panela"
+        },
+        "precio": 4800
+    },
+    {
+        "id": "Naranja",
+        "titulo": "Naranja",
+        "imagen": "./img/Cosecha/naranja.jpeg",
+        "categoria": {
+            "nombre": "Camisetas",
+            "id": "Naranja"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "FRIJOL",
+        "titulo": "FRIJOL",
+        "imagen": "./img/Cosecha/frijol.jpeg",
+        "categoria": {
+            "nombre": "FRIJOL",
+            "id": "FRIJOL"
+        },
+        "precio": 2300
+    },
+    {
+        "id": "Lechuga",
+        "titulo": "Lechuga",
+        "imagen": "./img/Cosecha/lechuga.jpeg",
+        "categoria": {
+            "nombre": "Lechuga",
+            "id": "lechuga"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "mora",
+        "titulo": "Mora",
+        "imagen": "./img/Cosecha/mora.jpeg",
+        "categoria": {
+            "nombre": "Mora",
+            "id": "mora"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "Platano",
+        "titulo": "platano",
+        "imagen": "./img/camisetas/platano.jpeg",
+        "categoria": {
+            "nombre": "Platano",
+            "id": "platano"
+        },
+        "precio": 3000
+    },
+    {
+        "id": "Derivados",
+        "titulo": "Yogurth Cacero",
+        "imagen": "./img/Derivados/yogurth cacero.jpg",
+      "categoria": {
+        "nombre": "Yogurth Casero",
+        "id": "Derivados"
+      },
+        "precio": 20000
+    },
+    {
+        "id": "tomate",
+        "titulo": "Camiseta 07",
+        "imagen": "./img/Cosecha/tomate.jpeg",
+        "categoria": {
+            "nombre": "TOMATE",
+            "id": "Tomate"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "Queso",
+        "titulo": "Queso de cabeza",
+        "imagen": "./img/Derivados/quesoCabeza.jpg",
+        "categoria": {
+            "nombre": "Queso de Cabeza",
+            "id": "queso"
+        },
+        "precio": 30000
+    },
+    {
+        "id": "fruta",
+        "titulo": "Mangos",
+        "imagen": "./img/Cosecha/mangos.jpeg",
+        "categoria": {
+            "nombre": "Mangos",
+            "id": "frutas"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "freijoba",
+        "titulo": "Freijoba",
+        "imagen": "./img/Cosecha/freijoba.jpeg",
+        "categoria": {
+            "nombre": "Freijoba",
+            "id": "freijoba"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "Repollo",
+        "titulo": "Repollo",
+        "imagen": "./img/Agricolas/repollo.jpeg",
+        "categoria": {
+            "nombre": "Repollo",
+            "id": "repollo"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "rabanos",
+        "titulo": "Rabanos",
+        "imagen": "./img/Agricolas/rabanos.jpeg",
+        "categoria": {
+            "nombre": "Rabanos",
+            "id": "Rabanos"
+        },
+        "precio": 10000
+    },
+    {
+        "id": "Sabajon",
+        "titulo": "SaBAJON",
+        "imagen": "./img/Derivados/sabajon.jpeg",
+        "categoria": {
+            "nombre": "Sabajon Cacero",
+            "id": "Sabajon"
+        },
+        "precio": 30000
+    }
+]
